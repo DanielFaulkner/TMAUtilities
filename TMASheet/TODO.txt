@@ -1,0 +1,1 @@
+Add option to automatically adjust the rotation of the expected grid to find the best match.
